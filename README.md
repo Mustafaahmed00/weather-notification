@@ -32,9 +32,9 @@ You can install the required libraries using pip:
 
 ## How to Run,
 Clone the repository:
-- git clone https://github.com/Mustafaahmed00/weather-notifier.git
+- git clone https://github.com/Mustafaahmed00/weather-notification.git
 Navigate to the project directory:
-- cd weather-notifier
+- cd weather-notification
 Run the application:
 - python weather.py
 
